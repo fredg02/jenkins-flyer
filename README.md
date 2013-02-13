@@ -10,5 +10,7 @@ JenkinsFlyer_concept3.svg depends on jenkinsScreenshot.png.
 Ready to print CMYK PDF: JenkinsFlyer_Final_CMYK.pdf
 
 Intermediate format (incl. 3mm bleed): 196x71mm
+
 Final format: 190x65mm
+
 Resolution: 300dpi
